@@ -18,6 +18,7 @@
     "esbuild@0.25.12": true
   },
   "dependencies": {
-    "purecss": "^3.1.0"
+    "purecss": "^3.1.0",
+    "swiper": "^14.3.0"
   }
 }
